@@ -1,0 +1,13 @@
+H:\FinalTextasy\FinalTextasy\bin\Debug\FinalTextasy.exe.config
+H:\FinalTextasy\FinalTextasy\obj\Debug\FinalTextasy.csprojResolveAssemblyReference.cache
+H:\FinalTextasy\FinalTextasy\bin\Debug\FinalTextasy.exe
+H:\FinalTextasy\FinalTextasy\bin\Debug\FinalTextasy.pdb
+H:\FinalTextasy\FinalTextasy\obj\Debug\FinalTextasy.exe
+H:\FinalTextasy\FinalTextasy\obj\Debug\FinalTextasy.pdb
+C:\Users\gd48jesse\Desktop\FinalTextasy\FinalTextasy\bin\Debug\FinalTextasy.exe.config
+C:\Users\gd48jesse\Desktop\FinalTextasy\FinalTextasy\bin\Debug\FinalTextasy.exe
+C:\Users\gd48jesse\Desktop\FinalTextasy\FinalTextasy\bin\Debug\FinalTextasy.pdb
+C:\Users\gd48jesse\Desktop\FinalTextasy\FinalTextasy\obj\Debug\FinalTextasy.csprojResolveAssemblyReference.cache
+C:\Users\gd48jesse\Desktop\FinalTextasy\FinalTextasy\obj\Debug\FinalTextasy.csproj.CoreCompileInputs.cache
+C:\Users\gd48jesse\Desktop\FinalTextasy\FinalTextasy\obj\Debug\FinalTextasy.exe
+C:\Users\gd48jesse\Desktop\FinalTextasy\FinalTextasy\obj\Debug\FinalTextasy.pdb
